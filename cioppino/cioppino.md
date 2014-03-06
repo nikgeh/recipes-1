@@ -14,11 +14,12 @@ Yummy spicy seafood stew
 * pepper flakes
 * tomatoes
 * white wine
+* fennel
 
 ## Directions
 
 * cook tomatoes and onions in a pot
 * Add white wine
-* simmer for 30 mins
+* simmer for 60 mins
 * add seafood
 * enjoy!

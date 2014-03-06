@@ -6,6 +6,8 @@
 * Lady Fingers
 * Marsala
 * Whipped Cream
+* Espresso
+
 
 -- Directions
 

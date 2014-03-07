@@ -7,6 +7,7 @@
 * Marsala
 * Whipped Cream
 * Espresso
+* Rum
 
 
 -- Directions

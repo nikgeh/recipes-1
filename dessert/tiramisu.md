@@ -11,4 +11,4 @@
 
 -- Directions
 
-* 
+* Whip mascarpone heese, cream in a bowl till soft peaks

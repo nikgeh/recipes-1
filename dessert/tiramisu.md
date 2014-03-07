@@ -11,4 +11,5 @@
 
 -- Directions
 
-* Whip mascarpone heese, cream in a bowl till soft peaks
+* Whip mascarpone cheese, cream in a bowl till soft peaks
+* Fold in 1/3 cup coffee
